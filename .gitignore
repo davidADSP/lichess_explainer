@@ -1,4 +1,5 @@
-
+data/
+store/
 stockfish/
 .DS_Store
 
